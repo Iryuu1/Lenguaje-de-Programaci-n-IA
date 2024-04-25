@@ -1,2 +1,2 @@
-# Lenguaje-de-Programaci-n-IA
+# Lenguaje-de-Programación-IA
 Proyecto multimedial
